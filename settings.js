@@ -82,16 +82,16 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_wes mari._',
+success: '_dah selesai tod._',
 admin: '_khusus admin grup tod!_',
 botAdmin: '_gw jadi in admin lah tod!_',
 owner: '_Fitur khusus jaka tersayang_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
+private: '_Fitur hanya dapat di gunakan di pribadi chat ya tod!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
 wait: '_Loanjing..._',
 error: '_error fanteks!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+endLimit: '_Limit lu abis tod, Limit Akan Direset Setiap Jam 12_',
 }
 
 //—————「 Batas Akhir 」—————//
