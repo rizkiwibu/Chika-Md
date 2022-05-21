@@ -1,26 +1,26 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @Jaka
+› Base Ori @Jaka
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
-	return`Selamat ${salam} kak ${pushname}
+	return`Selamat ${salam} deck ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Ya tod, Lapor Owner Agar Segera Di Perbaiki🗿`
 }
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini`
+	return`Halo deck ${pushname}, silahkan dipilih list menu dibawah ini ya dek`
 }
 
 //—————「 All Menu 」—————//
 exports.allmenu = (prefix, pushname, botname, time, salam) => {
-return`  _Selamat ${salam} kak ${pushname}_
+return`  _Selamat ${salam} deck ${pushname}_
 
   *⏰ Time Server : ${time}*
   *📚 List Menu : ${botname}*
@@ -447,9 +447,8 @@ exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
+Hai deck 🗿
+Kalo mau donasi yang iklans ya dekck:v ngak maksa kok🗿
 
 Thanks!
 
@@ -470,7 +469,7 @@ Thanks!
   *≻* Run Bot 20k (1 bulan)
   *≻* Run Bot 25k (Permanen)
 
-  *Minat? Langsung chat aja ya cuy 🐦*
+  *Minat? Langsung chat aja ya dek 🗿*
 
   *Contact person Owner* :
   wa.me/${ownernomer}
@@ -960,7 +959,7 @@ exports.thanksto = () => {
   *≻* Riy
   *≻* Deff
   *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Verdi
+  *≻* Jaka
 `
 }
