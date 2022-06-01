@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285878836361','6285878836361','6285878836361'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285878836361'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285878836361' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6283817161861','6283817161861','6283817161861'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283817161861'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6283817161861' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'rizki' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -37,7 +37,7 @@ global.youtube = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA'
 global.ig = 'https://instagram.com/ikykunnnn'
 global.mygc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = ''
+global.email = 'rizkiku683@gmail.com'
 global.region = 'jepang'
 
 //—————「 Set Wm 」—————//
